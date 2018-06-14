@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on sbartz</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on sbartz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Biography I am a masters student in the Psychology Department at the University of Oregon. I am broadly interested in understanding how people make decisions in different situations. What external and internal evaluations are made when making a &amp;ldquo;mundane&amp;rdquo; choice versus a &amp;ldquo;serious&amp;rdquo; choice? How might situational constraints (such as time, exhaustion, stress, novelty, etc) affect what actually gets considered when making a decision, and are there individual differences that can predict the adoption of certain decision strategies over others?</description>
+    </item>
+    
+    <item>
+      <title>CV Outdated</title>
+      <link>/home/publications_selected/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/publications_selected/</guid>
+      <description>Stephan Bartz  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/webscrapingworkshoptutorial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/webscrapingworkshoptutorial/</guid>
+      <description>Web Scraping Workshop Introductioncode{white-space: pre;}div.sourceCode { overflow-x: auto; }table.sourceCode, tr.sourceCode, td.lineNumbers, td.sourceCode {margin: 0; padding: 0; vertical-align: baseline; border: none; }table.sourceCode { width: 100%; line-height: 100%; background-color: #f8f8f8; }td.lineNumbers { text-align: right; padding-right: 4px; padding-left: 4px; color: #aaaaaa; border-right: 1px solid #aaaaaa; }td.sourceCode { padding-left: 5px; }pre, code { background-color: #f8f8f8; }code  span.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
